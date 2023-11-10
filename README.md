@@ -8,7 +8,6 @@ Welcome to the Online Travel Agency project! This web application is designed to
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Features
@@ -58,10 +57,6 @@ Before you begin, ensure you have the following installed on your machine:
 2. Open your browser and visit [http://localhost:3000](http://localhost:3000).
 
 3. Explore the Online Travel Agency application and enjoy the features!
-
-## Contributing
-
-If you would like to contribute to the project, please follow the steps outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
 
