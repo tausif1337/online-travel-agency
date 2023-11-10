@@ -8,7 +8,6 @@ Welcome to the Online Travel Agency project! This web application is designed to
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Features
 
@@ -57,10 +56,3 @@ Before you begin, ensure you have the following installed on your machine:
 2. Open your browser and visit [http://localhost:3000](http://localhost:3000).
 
 3. Explore the Online Travel Agency application and enjoy the features!
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Feel free to customize the content to better fit your project's specific features and requirements. Additionally, if there are specific sections like "Contributing" or "License" that you don't need, you can remove or modify them accordingly.
