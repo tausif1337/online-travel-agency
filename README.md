@@ -30,7 +30,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/online-travel-agency.git
+   git clone https://github.com/tausif1337/online-travel-agency.git
    ```
 
 2. Navigate to the project directory:
